@@ -24,8 +24,13 @@ How to Use
 
 If all goes well, you may see screen like below when you try to un install the app
 
-![When user uninstall application then this screen will be shown][1]
-  
+![Device Administartion is checked which specifies that application is Device administrator][1]
+
+![When user uninstall application then this screen will be shown][2]
+  ![   ][3]
 
 
-  [1]: https://lh4.googleusercontent.com/00VswIElfqTNcdsyI_CYu0Z2p6Zo5ozooJ3w7AvwrQ=s0
+  [1]: https://lh3.googleusercontent.com/SZPdk3-xXrCP8kzor_hJM6YH4q4SkEgnOYuHWnqW1w=s0
+  [2]: https://lh4.googleusercontent.com/00VswIElfqTNcdsyI_CYu0Z2p6Zo5ozooJ3w7AvwrQ=s0
+ 
+  [3]: https://lh3.googleusercontent.com/-5SfRp8rUz_g2IENVf4JnMGuf8Wdhagxh61nweST_Q=s0
